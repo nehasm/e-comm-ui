@@ -36,7 +36,7 @@ Key features of the carousel implementation:
 
 - **Arrow Controls:** Users can navigate through the carousel using arrow controls.
 
-- **User Interaction:** Clicking or selecting a card highlights the selected item and smoothly transitions to the main card.
+- **User Interaction:** Clicking on the dots below with respect to the card highlights the selected item and smoothly transitions to the main card.
 
 ## 3. Technologies Used
 
