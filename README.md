@@ -9,8 +9,6 @@ This project implements a dynamic navigation menu (Navbar) and an engaging circu
 - [3. Technologies Used](#3-technologies-used)
 - [4. Installation](#4-installation)
 - [5. Usage](#5-usage)
-- [6. Credits](#6-credits)
-- [7. License](#7-license)
 
 ## 1. Dynamic Menu (Navbar)
 
