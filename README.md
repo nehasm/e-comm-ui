@@ -45,21 +45,23 @@ Key features of the carousel implementation:
 
 ## 4. Installation
 
-1. Clone the repository to your local machine.
+Clone the repository to your local machine.
 
    ```bash
    git clone <repository-url>
 ```
 ## 5. Usage
+
 1. Navigate to the project directory.
+
 2. Install the required dependencies.
 
    ```bash
-npm install
+      npm install
    ```
 3. Start the development server.
    ```bash
-   npm run dev
+      npm run dev
    ```
 4. Open your web browser
    
