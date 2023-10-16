@@ -1,6 +1,6 @@
 # Dynamic Menu and Carousel Implementation
 
-This project implements a dynamic navigation menu (Navbar) and an engaging circular carousel, meeting the specified requirements using React Vite app with TypeScript and Sass for styling. The project ensures responsive design for seamless adaptation to screen size changes.
+This project implements a dynamic navigation menu (Navbar) and an engaging circular carousel, meeting the specified requirements using React Vite app with TypeScript and Sass for styling. The project ensures responsive design for seamless adaptation to screen size changes for the desktop.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Key features of the dynamic menu implementation:
 
 ## 2. Carousel
 
-The circular carousel showcases featured items, enabling users to navigate through the carousel using arrow controls and user interactions with the displayed cards. The carousel offers a smooth transition to the main card upon user interaction and creates an infinite loop of content on navigation.
+The circular carousel showcases featured items, enabling users to navigate through the carousel using arrow controls and user interactions with the displayed cards using the dots pattern below. The carousel offers a smooth transition to the main card upon user interaction and creates an infinite loop of content on navigation.
 
 Key features of the carousel implementation:
 
